@@ -26,4 +26,5 @@ L.Marker.prototype.options.icon = DefaultIcon;
 npm i --save leaflet leaflet-control-geocoder leaflet-routing-machine
 
 import "leaflet-control-geocoder/dist/Control.Geocoder.css";
+
 import "leaflet-control-geocoder/dist/Control.Geocoder.js";
