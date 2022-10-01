@@ -20,3 +20,7 @@ popupAnchor: [2, -40],
 });
 
 L.Marker.prototype.options.icon = DefaultIcon;
+
+# requirements
+
+npm i --save leaflet leaflet-control-geocoder leaflet-routing-machine
