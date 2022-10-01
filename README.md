@@ -4,7 +4,7 @@ You can start by execute npm start
 
 http://localhost:3000
 
-# details
+# Details
 
 You can use the leaflet with autocomplete in the src/LeafletGeocoder.js file
 
@@ -21,7 +21,7 @@ popupAnchor: [2, -40],
 
 L.Marker.prototype.options.icon = DefaultIcon;
 
-# requirements
+# Requirements
 
 npm i --save leaflet leaflet-control-geocoder leaflet-routing-machine
 
